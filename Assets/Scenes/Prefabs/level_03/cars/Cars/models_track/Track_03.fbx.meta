@@ -1,24 +1,9 @@
 fileFormatVersion: 2
-guid: 2244dfed4ec85634f8c288e674b718ce
+guid: 8bf55dec2d892364282364f4160f58a3
 ModelImporter:
   serializedVersion: 21202
   internalIDToNameTable: []
-  externalObjects:
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
-      name: track
-    second: {fileID: -5427798485838036235, guid: 8a625ae0ad85b1e4688f1e19f9c5d788, type: 3}
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
-      name: track_grey
-    second: {fileID: 2100000, guid: 7362f6126cb00f7438244f4f17715882, type: 2}
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
-      name: track_white
-    second: {fileID: 2567301854297938900, guid: b3391c006919bcb4d986f46d125e7faa, type: 3}
+  externalObjects: {}
   materials:
     materialImportMode: 2
     materialName: 0
